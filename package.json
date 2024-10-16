@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+    "keywords": ["freecodecamp", "study", "backend", "free"],
   "author": "D-Murenzi",
   "license": "ISC",
   "description": "This project is for learning perpose only."
